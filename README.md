@@ -1,6 +1,7 @@
 # TCP Chat Program:
 
 - It's a basic Python-based TCP server-client application that allows two devices to communicate with each other using TCP/IP.
+- it's written by chatgpt i tweaked it a bit
 - this is my homework for IOT(?) 
 
 ## Files:
