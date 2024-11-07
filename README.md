@@ -1,7 +1,9 @@
-##TCP Chat Program
+#TCP Chat Program
+
 this is my homework for IOT(?)
 It's a basic Python-based TCP server-client application that allows two devices to communicate with each other using TCP/IP.
-Files:
+
+##Files:
 
     server.py: The server-side application that listens for incoming connections from clients.
     client.py: The client-side application that connects to the server to send and receive messages.
